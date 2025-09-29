@@ -14,7 +14,7 @@
 
 - 🌱 Currently learning **Full Stack Development, Java, Python, and Digital Communication Systems**  
 - 🛠️ Experienced with **HFSS, Cadence Virtuoso, MATLAB, and OpenCV**  
-- 📡 Areas of interest: **Antenna Design, VLSI, IoT, AI Applications, and System Testing**  
+- 📡 Areas of interest: **Antenna Design, IoT, AI Applications, and System Testing**  
 - 🎯 Goal: To contribute to **innovative tech solutions** that bridge software and hardware  
 - 📫 Reach me at: **bhoomikajoshi2003@gmail.com**  
 
